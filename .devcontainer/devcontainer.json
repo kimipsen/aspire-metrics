@@ -16,5 +16,8 @@
                 "GitHub.copilot-chat"
             ]
         }
-    }
+    },
+    "forwardPorts": [
+      7065
+    ]
 }
