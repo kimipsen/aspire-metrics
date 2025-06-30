@@ -13,7 +13,8 @@
                 "ms-dotnettools.vscodeintellicode-csharp",
                 "EditorConfig.EditorConfig",
                 "GitHub.copilot",
-                "GitHub.copilot-chat"
+                "GitHub.copilot-chat",
+                "humao.rest-client"
             ]
         }
     },
